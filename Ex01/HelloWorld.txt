@@ -1,0 +1,2 @@
+nc -l [port]
+nc [ip] [port]
